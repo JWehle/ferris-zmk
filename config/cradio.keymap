@@ -12,10 +12,10 @@
 #define COLEMAK         1
 #define GAME            2
 #define SYMBOLS         3
-#define nav             4
-#define misc            5
-#define jannett         6
-#define jannett_symbols 7
+#define NAV             4
+#define MISC            5
+#define JANNETT         6
+#define JANNETT_SYMBOLS 7
 
 &mt {
    // flavor = "tap-preferred";
